@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PSP1729
-- 👀 I’m interested in DatabScience
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R
